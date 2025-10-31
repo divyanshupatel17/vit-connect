@@ -1,6 +1,6 @@
 # Privacy Policy
 
-**Last Updated:** January 2025
+**Last Updated:** Oct 2025
 
 VIT Connect ("the App") is a third-party student companion app for VIT Chennai students. This privacy policy explains what data we collect, how we use it, and your rights.
 
