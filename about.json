@@ -1,19 +1,37 @@
 {
+  "developers": [
+    {
+      "name": "Divyanshu Patel",
+      "role": "Lead Developer",
+      "avatarUrl": "https://cdn-icons-png.flaticon.com/512/1999/1999625.png",
+      "email": "itzdivyanshupatel@gmail.com",
+      "linkedinUrl": "https://www.linkedin.com/in/patel-divyanshu/",
+      "githubUrl": "https://github.com/divyanshupatel17",
+      "websiteUrl": null
+    }
+  ],
   "contributors": [
     {
       "name": "Tea",
       "role": "Power",
-      "githubUrl": "https://github.com/divyanshupatel17",
-      "avatarUrl": "https://cdn.jsdelivr.net/gh/alohe/avatars/png/memo_13.png",
+      "githubUrl": null,
+      "avatarUrl": "https://cdn-icons-png.flaticon.com/512/3504/3504837.png",
       "contribution": "Nothing"
     }
   ],
   "communityLinks": {
-    "whatsapp": "https://chat.whatsapp.com/your-group-invite-link",
-    "telegram": "https://t.me/your-telegram-channel",
-    "discord": "https://discord.gg/your-server-invite",
-    "instagram": "https://instagram.com/vitconnect",
-    "twitter": "https://twitter.com/vitconnect"
+    "links": [
+      {
+        "name": "Join WhatsApp Group",
+        "url": "https://chat.whatsapp.com/YOUR_WHATSAPP_LINK",
+        "icon": "whatsapp"
+      },
+      {
+        "name": "Join Telegram Channel",
+        "url": "https://t.me/YOUR_TELEGRAM_CHANNEL",
+        "icon": "telegram"
+      }
+    ]
   },
   "supportLinks": {
     "featureRequestUrl": "https://github.com/divyanshupatel17/vit-connect/issues/new?labels=enhancement&template=feature_request.md",
@@ -21,15 +39,13 @@
     "discussionsUrl": "https://github.com/divyanshupatel17/vit-connect/discussions"
   },
   "acknowledgments": [
-    "Thanks to VIT Chennai for providing the infrastructure",
-    "Special thanks to all beta testers",
-    "Built with Flutter framework by Google",
-    "Icons from Material Design Icons"
+    "VIT Chennai for the academic data access",
+    "Flutter team for the amazing framework",
+    "Open source community for contributions"
   ],
   "metadata": {
+    "version": "1.0.0",
     "lastUpdated": "2025-10-31",
-    "changelogUrl": "https://github.com/divyanshupatel17/vit-connect/blob/main/CHANGELOG.md",
-    "totalDownloads": 1000,
-    "averageRating": 4.5
+    "maintainer": "Divyanshu Patel"
   }
 }
