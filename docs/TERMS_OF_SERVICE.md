@@ -68,4 +68,4 @@ You can stop using anytime by uninstalling the app.
 
 ---
 
-Thanks for using VIT Connect, built with Flutter and tea ☕ for the VIT Community.
+Thanks for using VIT Connect..
