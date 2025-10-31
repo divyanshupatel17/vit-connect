@@ -1,0 +1,35 @@
+{
+  "contributors": [
+    {
+      "name": "Tea",
+      "role": "Power",
+      "githubUrl": "https://github.com/divyanshupatel17",
+      "avatarUrl": "https://cdn.jsdelivr.net/gh/alohe/avatars/png/memo_13.png",
+      "contribution": "Nothing, "
+    },
+  ],
+  "communityLinks": {
+    "whatsapp": "https://chat.whatsapp.com/your-group-invite-link",
+    "telegram": "https://t.me/your-telegram-channel",
+    "discord": "https://discord.gg/your-server-invite",
+    "instagram": "https://instagram.com/vitconnect",
+    "twitter": "https://twitter.com/vitconnect"
+  },
+  "supportLinks": {
+    "featureRequestUrl": "https://github.com/divyanshupatel17/vit-connect/issues/new?labels=enhancement&template=feature_request.md",
+    "bugReportUrl": "https://github.com/divyanshupatel17/vit-connect/issues/new?labels=bug&template=bug_report.md",
+    "discussionsUrl": "https://github.com/divyanshupatel17/vit-connect/discussions"
+  },
+  "acknowledgments": [
+    "Thanks to VIT Chennai for providing the infrastructure",
+    "Special thanks to all beta testers",
+    "Built with Flutter framework by Google",
+    "Icons from Material Design Icons"
+  ],
+  "metadata": {
+    "lastUpdated": "2025-10-31",
+    "changelogUrl": "https://github.com/divyanshupatel17/vit-connect/blob/main/CHANGELOG.md",
+    "totalDownloads": 1000,
+    "averageRating": 4.5
+  }
+}
