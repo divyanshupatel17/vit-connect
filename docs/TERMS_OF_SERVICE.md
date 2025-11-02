@@ -2,14 +2,14 @@
 
 **Last Updated:** Oct 2025
 
-Welcome to **VIT Connect (VIT Verse)**, a student-built app for VIT Chennai.
+Welcome to **VIT Verse (VIT Connect)**, a student-built app for VIT Chennai.
 By using the app, you agree to these terms and the Privacy Policy. If not, please uninstall it.
 
 ---
 
 ## 1. About
 
-VIT Connect is a student-developed open-source Flutter app made to make campus life easier.
+VIT Verse is a student-developed open-source Flutter app made to make campus life easier.
 It lets you view attendance, grades, exams, mess menu, laundry, faculty ratings, cab share, and more.
 
 ⚠️ Not officially affiliated with VIT Chennai.
@@ -69,3 +69,4 @@ You can stop using anytime by uninstalling the app.
 ---
 
 Thanks for using VIT Connect..
+
