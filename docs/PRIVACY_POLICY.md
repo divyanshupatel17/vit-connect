@@ -2,7 +2,7 @@
 
 **Last Updated:** Oct 2025
 
-VIT Connect ("the App") is a third-party student companion app for VIT Chennai students. This privacy policy explains what data we collect, how we use it, and your rights.
+VIT Verse ("VIT Connect - the App") is a third-party student companion app for VIT Chennai students. This privacy policy explains what data we collect, how we use it, and your rights.
 
 ---
 
@@ -132,7 +132,7 @@ The App uses a **3-Stage CAPTCHA Pipeline** to solve VTOP login CAPTCHAs:
 
 ## 8. No Control or Responsibility
 
-VIT Connect is a third-party app developed independently by students. We do **NOT** have any control over:
+VIT Verse is a third-party app developed independently by students. We do **NOT** have any control over:
 
 - VTOP's availability, uptime, or data accuracy.
 - VIT Chennai's official policies or academic data.
@@ -164,4 +164,5 @@ For questions or concerns about this privacy policy:
 
 ---
 
-**By using VIT Connect, you agree to this Privacy Policy.**
+**By using VIT Verse, you agree to this Privacy Policy.**
+
