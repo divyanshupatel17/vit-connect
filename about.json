@@ -11,33 +11,48 @@
     }
   ],
   "contributors": [
-     {
-    "name": "Tea",
-    "role": "Critical dependency",
-    "githubUrl": null,
-    "avatarUrl": "https://cdn-icons-png.flaticon.com/512/3504/3504837.png",
-    "contribution": "Fixed 99% of bugs by existing"
-  }
+    {
+      "name": "Tea",
+      "role": "Critical dependency",
+      "githubUrl": "https://github.com/divyanshupatel17/vit-connect/",
+      "avatarUrl": "https://cdn-icons-png.flaticon.com/512/3504/3504837.png",
+      "contribution": "Fixed 99% of bugs by existing"
+    }
   ],
   "communityLinks": {
     "links": [
       {
-        "name": "Join WhatsApp Group",
-        "url": "https://chat.whatsapp.com/YOUR_WHATSAPP_LINK",
+        "name": "VIT Versse Community",
+        "url": "https://chat.whatsapp.com/LOBl9ybACcwF8gRTQuPffi",
         "icon": "whatsapp"
-      },
-      {
-        "name": "Join Telegram Channel",
-        "url": "https://t.me/YOUR_TELEGRAM_CHANNEL",
-        "icon": "telegram"
       }
     ]
   },
   "supportLinks": {
-    "featureRequestUrl": "https://github.com/divyanshupatel17/vit-connect/issues?q=state%3Aopen%20label%3Aenhancement",
-    "bugReportUrl": "https://github.com/divyanshupatel17/vit-connect/issues?q=state%3Aopen%20label%3Abug",
-    "discussionsUrl": "https://github.com/divyanshupatel17/vit-connect/issues?q=state%3Aopen%20label%3Adiscussion"
+    "featureRequestUrl": "https://github.com/divyanshupatel17/vit-connect/issues/new?labels=enhancement",
+    "bugReportUrl": "https://github.com/divyanshupatel17/vit-connect/issues/new?labels=bug",
+    "discussionsUrl": "https://github.com/divyanshupatel17/vit-connect/discussions"
   },
+  "importantLinks": [
+    {
+      "id": 1,
+      "title": "VIT Chennai Official Page",
+      "link": "https://chennai.vit.ac.in/",
+      "desc": "Official website of VIT Chennai with campus details, news, announcements, and academic information."
+    },
+    {
+      "id": 2,
+      "title": "VTOP Student Login",
+      "link": "https://vtopcc.vit.ac.in/vtop/open/page",
+      "desc": "VTOP portal for students to access academics, attendance, grades, and exam schedules."
+    },
+    {
+      "id": 3,
+      "title": "Learning Management System (LMS)",
+      "link": "https://lms.vit.ac.in/login/index.php",
+      "desc": "LMS platform for accessing course materials and assignments."
+    }
+  ],
   "acknowledgments": [
     "VIT Chennai for the academic data access",
     "Flutter team for the amazing framework",
@@ -49,4 +64,3 @@
     "maintainer": "Divyanshu Patel"
   }
 }
-
