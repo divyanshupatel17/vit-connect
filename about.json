@@ -5,6 +5,7 @@
       "role": "Lead Developer",
       "avatarUrl": "https://cdn-icons-png.flaticon.com/512/1999/1999625.png",
       "email": "itzdivyanshupatel@gmail.com",
+      "websiteUrl": "https://divyanshupatel17.github.io/",
       "linkedinUrl": "https://www.linkedin.com/in/patel-divyanshu/",
       "githubUrl": "https://github.com/divyanshupatel17"
     }
@@ -13,10 +14,9 @@
     {
       "name": "Tea",
       "role": "Critical dependency",
-      "githubUrl": "https://github.com/divyanshupatel17/vit-connect/",
       "websiteUrl": "https://github.com/divyanshupatel17/vit-connect/",
-      "linkedinUrl": "https://github.com/divyanshupatel17/vit-connect/",
-      "mail": "https://github.com/divyanshupatel17/vit-connect/",
+      "githubUrl": "https://github.com/divyanshupatel17/vit-connect/",
+      "linkedinUrl": "https://www.linkedin.com/company/tea-lovers/",
       "avatarUrl": "https://cdn-icons-png.flaticon.com/512/3504/3504837.png",
       "contribution": "Fixed 99% of bugs by existing"
     }
