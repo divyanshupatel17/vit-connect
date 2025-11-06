@@ -6,8 +6,7 @@
       "avatarUrl": "https://cdn-icons-png.flaticon.com/512/1999/1999625.png",
       "email": "itzdivyanshupatel@gmail.com",
       "linkedinUrl": "https://www.linkedin.com/in/patel-divyanshu/",
-      "githubUrl": "https://github.com/divyanshupatel17",
-      "websiteUrl": null
+      "githubUrl": "https://github.com/divyanshupatel17"
     }
   ],
   "contributors": [
@@ -15,6 +14,9 @@
       "name": "Tea",
       "role": "Critical dependency",
       "githubUrl": "https://github.com/divyanshupatel17/vit-connect/",
+      "websiteUrl": "https://github.com/divyanshupatel17/vit-connect/",
+      "linkedinUrl": "https://github.com/divyanshupatel17/vit-connect/",
+      "mail": "https://github.com/divyanshupatel17/vit-connect/",
       "avatarUrl": "https://cdn-icons-png.flaticon.com/512/3504/3504837.png",
       "contribution": "Fixed 99% of bugs by existing"
     }
@@ -64,4 +66,3 @@
     "maintainer": "Divyanshu Patel"
   }
 }
-
