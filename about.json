@@ -18,6 +18,15 @@
       "githubUrl": "https://github.com/Kanishka-Developer/unmessify",
       "avatarUrl": "https://cdn-icons-png.freepik.com/512/2449/2449841.png?ga=GA1.1.1809574836.1761886371",
       "contribution": "Check out"
+    },
+    {
+      "name": "Ashutosh Gunjal",
+      "role": "UI/UX Designer",
+      "avatarUrl": "https://cdn-icons-png.flaticon.com/512/922/922699.png",
+      "email": "ashutoshgunjal6789@gmail.com",
+      "linkedinUrl": "https://www.linkedin.com/in/ashutosh-gunjal-7a2b8228b/",
+      "githubUrl": "https://github.com/ashutosh-gunjal-001",
+      "contribution": "Visual design & user experience improvements"
     }
   ],
   "communityLinks": {
@@ -65,4 +74,5 @@
     "maintainer": "Divyanshu Patel"
   }
 }
+
 
