@@ -12,13 +12,12 @@
   ],
   "contributors": [
     {
-      "name": "Tea",
-      "role": "Critical dependency",
-      "websiteUrl": "https://github.com/divyanshupatel17/vit-connect/",
-      "githubUrl": "https://github.com/divyanshupatel17/vit-connect/",
-      "linkedinUrl": "https://www.linkedin.com/company/tea-lovers/",
-      "avatarUrl": "https://cdn-icons-png.flaticon.com/512/3504/3504837.png",
-      "contribution": "Fixed 99% of bugs by existing"
+      "name": "Kanishka Chakraborty & Teesha Saxena",
+      "role": "Collaboration with Unmessify",
+      "websiteUrl": "https://kaffeine.tech/unmessify/",
+      "githubUrl": "https://github.com/Kanishka-Developer/unmessify",
+      "avatarUrl": "https://cdn-icons-png.freepik.com/512/2449/2449841.png?ga=GA1.1.1809574836.1761886371",
+      "contribution": "Check out"
     }
   ],
   "communityLinks": {
@@ -66,3 +65,4 @@
     "maintainer": "Divyanshu Patel"
   }
 }
+
